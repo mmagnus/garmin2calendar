@@ -1,0 +1,41 @@
+{
+    "summaryDTO": {
+        "movingDuration": 1559.0, 
+        "endLongitude": 21.0213269200176, 
+        "endLatitude": 52.20394344069064, 
+        "startTimeGMT": "2019-10-18T15:49:20.0", 
+        "startTimeLocal": "2019-10-18T17:49:20.0", 
+        "duration": 3184.029, 
+        "startLatitude": 52.233099304139614, 
+        "startLongitude": 21.000255988910794, 
+        "maxElevation": 244.4, 
+        "trainingEffect": 1.7000000476837158, 
+        "maxVerticalSpeed": 1.8000030517578125, 
+        "minElevation": 210.8, 
+        "maxTemperature": 33.0, 
+        "elapsedDuration": 61324.598, 
+        "minTemperature": 24.0, 
+        "averageTemperature": 30.380488506323083, 
+        "averageSpeed": 1.7139999866485596, 
+        "maxHR": 146.0, 
+        "elevationGain": 37.0, 
+        "distance": 5457.05, 
+        "maxSpeed": 11.149999618530272, 
+        "calories": 268.0, 
+        "averageMovingSpeed": 3.500352664969532, 
+        "averageHR": 102.0, 
+        "minActivityLapDuration": 132.418, 
+        "elevationLoss": 34.0
+    }, 
+    "activityName": "Warsaw Cycling", 
+    "accessControlRuleDTO": {
+        "typeId": 3, 
+        "typeKey": "subscribers"
+    }, 
+    "timeZoneUnitDTO": {
+        "unitKey": "Europe/Paris", 
+        "timeZone": "Europe/Paris", 
+        "factor": 0.0, 
+        "unitId": 124
+    }
+}
