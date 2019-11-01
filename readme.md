@@ -54,3 +54,6 @@ and you will see your activities in the selected calendar.
 
 The log will be created so the save activities will not be uploaded more times.
 
+# Ideas
+
+- gcalcli could be used to insert Events into Google Calendars
